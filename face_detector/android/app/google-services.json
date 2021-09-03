@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995953495578",
+    "project_id": "faceblur-7bd98",
+    "storage_bucket": "faceblur-7bd98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995953495578:android:1e3841037536ebac328ba3",
+        "android_client_info": {
+          "package_name": "com.marionette.face_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995953495578-ekfd3t5i2122ecrftutrasien23ccgkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTRJwfZ9dQM7nMGSsKO9-RMpj4BkoxWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995953495578-ekfd3t5i2122ecrftutrasien23ccgkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
